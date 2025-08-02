@@ -1,7 +1,8 @@
 x = a+b
 
-x = a-b 
+ix = a-b 
 
 echo "print the x results"
 
-testing the git pull command how is going to works
+
+x=a%b divison brach test
